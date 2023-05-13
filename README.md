@@ -63,8 +63,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Clean Up
 - Delete C:\inetpub\wwwroot\osTicket\setup
 - Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-- Item 5
-- Item 5
 
 <h2>Installation Steps</h2>
 
