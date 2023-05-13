@@ -27,12 +27,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create an Azure virtual machine windows 10, 4 vCPUs
 - Add your PC connection in Microsoft Remote Desktop
 - Enable Internet Information Services (IIS) WITH CGI
-- Install PHP manager
-- Install Rewrite module
+- Download and install PHP manager
+- Download and install Rewrite module
 - Create a directory folder in Windows C drive and label the folder PHP
-- Install PHP 7.3.8
-- Install C++
-- Install My SQL server
+- Download and install PHP 7.3.8
+- Download and install C++
+- Download and install My SQL server
 - Open (IIS) as an Admin
 - Register PHP from within IIS
 - Reload IIS (Open, stop, start server)
@@ -46,6 +46,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Click "enable or disable and extension"
 - Enable php_impap.dll , php_intl.dll , php_opache.dll
 - Refresh the osTicket site in your browse, observe the changes
+- Rename ost-config.php 
+- From C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php
+- Assign permissions: ost-config.php
+- Disable inheritance-> Remove All
+- New Permissions-> Everyone-> All
+- Continue Setting up osTicket -> create helpdesk name -> create default email
+- Download and install HeidiSQL
+- Open Heidi SQl -> create a new session, root/Password1 -> connect to the session -> create a database called "osTicket"
+- Continue setting up osticet in the browser
+- MySQL Database
+- MySQL Username
+- MySQL Password
+- Install Now
+- Browse to your help desk login page
+- Clean Up
+- Delete C:\inetpub\wwwroot\osTicket\setup
+- Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 - Item 5
 - Item 5
 
