@@ -23,10 +23,29 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1 Create a resource group in Azure
-- Item 2 Create an Azure virtual machine windows 10, 4 vCPUs
-- Item 3
-- Item 4
+- Create a resource group in Azure
+- Create an Azure virtual machine windows 10, 4 vCPUs
+- Add your PC connection in Microsoft Remote Desktop
+- Enable Internet Information Services (IIS) WITH CGI
+- Install PHP manager
+- Install Rewrite module
+- Create a directory folder in Windows C drive and label the folder PHP
+- Install PHP 7.3.8
+- Install C++
+- Install My SQL server
+- Open (IIS) as an Admin
+- Register PHP from within IIS
+- Reload IIS (Open, stop, start server)
+- Install os ticket 
+- Extract and copy "upload" folder to c:\inetpub\wwwroot
+- Within c:\inetpub\wwwroot rename "upload" to "osticket"
+- Reload IIS (Open, stop, start server)
+- Go to sites -> default -> os ticket-> click *browse 80
+- Go back to IIS, sites-> default-> osticket
+- Double click PHP manager
+- Click "enable or disable and extension"
+- Enable php_impap.dll , php_intl.dll , php_opache.dll
+- Refresh the osTicket site in your browse, observe the changes
 - Item 5
 - Item 5
 
