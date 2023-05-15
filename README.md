@@ -190,6 +190,11 @@ Enable and install Information Internet Services (IIS)
 <br />
 
 <p>
+<img src="https://i.imgur.com/1VZzwj8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+<p>
 <img src="https://i.imgur.com/agalfVf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
