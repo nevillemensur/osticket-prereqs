@@ -270,6 +270,11 @@ Install C++
 </p>
 <p>
 Install MySQL 5.5.62
+Typical Setup->
+Launch Configuration Wizard (after install) ->
+Standard Configuration ->
+Password1
+
 </p>
 <br />
 
