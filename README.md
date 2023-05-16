@@ -343,6 +343,14 @@ Register PHP from within IIS
 <br />
 
 <p>
+<img src="https://i.imgur.com/vTS6nd9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/lX3T73O.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
