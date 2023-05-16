@@ -534,7 +534,7 @@ osTicket-> include -> ost-sampleconfig.php -> ost-config.php
 </p>
 <p>
 Assign Permissions: ost-config.php
-Disable inheritance -> Remove All
+Disable inheritance -> Remove All ->
 New Permissions -> Everyone -> All
 
 </p>
