@@ -697,7 +697,7 @@ Enter creditentals
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/w2wG0Jy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Clean up
@@ -706,11 +706,6 @@ Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-conf
 
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/w2wG0Jy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
 </p>
 <br />
