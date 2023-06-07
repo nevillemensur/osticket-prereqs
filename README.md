@@ -67,18 +67,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/iVkXx3x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Start by creating a resource group inside Microsoft Azure. This resource group is where will store our virtual machines.
+</p>
+
+<p>
+<img src="https://i.imgur.com/iVkXx3x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/g0whdDT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Name your resource group "RG-osticket" and select a region. I recommend using a region that is near you. Then click "Review+Create"
+</p>
+
+<p>
+<img src="https://i.imgur.com/g0whdDT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
