@@ -431,12 +431,13 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 <br />
 
 <p>
-<img src="https://i.imgur.com/UBcF7K6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/UBcF7K6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -449,9 +450,6 @@ On the right, click “Browse *:80”
 <br />
 
 <p>
-<img src="https://i.imgur.com/A3rp0SN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Note that some extensions are not enabled
 Go back to IIS, sites -> Default -> osTicket
 Double-click PHP Manager
@@ -460,7 +458,10 @@ Enable: php_imap.dll
 Enable: php_intl.dll
 Enable: php_opcache.dll
 Refresh the osTicket site in your browse, observe the changes
+</p>
 
+<p>
+<img src="https://i.imgur.com/A3rp0SN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -513,15 +514,16 @@ Refresh the osTicket site in your browse, observe the changes
 <br />
 
 <p>
-<img src="https://i.imgur.com/LglHbRl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
   
 osTicket-> include -> ost-sampleconfig.php -> ost-config.php
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/LglHbRl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -550,13 +552,14 @@ osTicket-> include -> ost-sampleconfig.php -> ost-config.php
 <br />
 
 <p>
-<img src="https://i.imgur.com/pnAXgPs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Assign Permissions: ost-config.php
 Disable inheritance -> Remove All ->
 New Permissions -> Everyone -> All
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/pnAXgPs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -617,19 +620,17 @@ New Permissions -> Everyone -> All
 <br />
 
 <p>
-<img src="https://i.imgur.com/j9Yu7W8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
 
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/7CIEQmH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/j9Yu7W8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <p>
 From the Installation Files, download and install HeidiSQL.
   
@@ -638,6 +639,10 @@ Create a new session, root/Password1 ->
 Connect to the session ->
 Create a database called “osTicket”
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/7CIEQmH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -674,9 +679,6 @@ Create a database called “osTicket”
 <br />
 
 <p>
-<img src="https://i.imgur.com/pKzFSIk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Continue Setting up osticket in the browser
   
 MySQL Database: osTicket
@@ -685,11 +687,12 @@ MySQL Password: Password1
 Click “Install Now!”
 
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/j8UisMg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pKzFSIk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <p>
 Congratulations, hopefully it is installed with no errors!
   
@@ -697,6 +700,10 @@ Browse to your help desk login page: http://localhost/osTicket/scp/login.php
   
 Enter creditentals 
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/j8UisMg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -717,13 +724,14 @@ Enter creditentals
 <br />
 
 <p>
-<img src="https://i.imgur.com/w2wG0Jy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Clean up
 Delete: C:\inetpub\wwwroot\osTicket\setup
 Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/w2wG0Jy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
