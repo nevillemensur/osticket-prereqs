@@ -71,7 +71,7 @@ Start by creating a resource group inside Microsoft Azure. This resource group i
 </p>
 
 <p>
-<img src="https://i.imgur.com/iVkXx3x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TmqScaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -80,31 +80,34 @@ Name your resource group "RG-osticket" and select a region. I recommend using a 
 </p>
 
 <p>
-<img src="https://i.imgur.com/g0whdDT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7BcAZb8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/F6lxXiP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Create a virtual machine.
 </p>
-<br />
 
 <p>
-<img src="https://i.imgur.com/Nz8Csv0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tuJOw9A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<br />
+
 <p>
 Create a virtual machine that runs on Windows and add it to the resource group labeled "RG-osticket"
 </p>
+
+<p>
+<img src="https://i.imgur.com/q3SgSuI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/gk5doZF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Create a username and password. The username and password will be used to log into remote desktop.
+</p>
+
+<p>
+<img src="https://i.imgur.com/QQFd529.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
