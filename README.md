@@ -205,26 +205,29 @@ Enable and install Information Internet Services (IIS)
 <p>
 
 <p>
-<img src="https://i.imgur.com/agalfVf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Install PHP manager.
 </p>
+
+<p>
+<img src="https://i.imgur.com/agalfVf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
+
+<p>
+Install Rewrite module.
+</p>
 
 <p>
 <img src="https://i.imgur.com/NVYBUEI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Install Rewrite module.
-</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/al3ubNY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Create a directory in C:\\ drive -> create new folder -> name the folder PHP
+</p>
+
+<p>
+<img src="https://i.imgur.com/al3ubNY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -245,9 +248,11 @@ Create a directory in C:\\ drive -> create new folder -> name the folder PHP
 <br />
 
 <p>
-<img src="https://i.imgur.com/DEiDZnx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install PHP 7.3.8 and unzip the contents in C:\PHP
 </p>
-<p>Install PHP 7.3.8 and unzip the contents in C:\PHP
+
+<p>
+<img src="https://i.imgur.com/DEiDZnx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -268,16 +273,14 @@ Create a directory in C:\\ drive -> create new folder -> name the folder PHP
 <br />
 
 <p>
-<img src="https://i.imgur.com/cNcGE6a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Install C++
+</p>
+
+<p>
+<img src="https://i.imgur.com/cNcGE6a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/v9NCNCk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Install MySQL 5.5.62->
 Typical Setup->
@@ -285,6 +288,10 @@ Launch Configuration Wizard (after install) ->
 Standard Configuration ->
 Password1
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/v9NCNCk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -329,18 +336,20 @@ Password1
 <br />
 
 <p>
-<img src="https://i.imgur.com/RSuRnuH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Open IIS as admin.
+</p>
+
+<p>
+<img src="https://i.imgur.com/RSuRnuH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/lGEsyxq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Register PHP from within IIS
+</p>
+
+<p>
+<img src="https://i.imgur.com/lGEsyxq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
@@ -377,14 +386,15 @@ Register PHP from within IIS
 <br />
 
 <p>
-<img src="https://i.imgur.com/Tl55roA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Install osTicket v1.15.8
 Download osTicket from the Installation Files Folder
 Extract and copy “upload” folder to c:\inetpub\wwwroot
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
+</p>
+
+<p>
+<img src="https://i.imgur.com/Tl55roA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
