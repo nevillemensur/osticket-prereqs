@@ -112,32 +112,33 @@ Create a username and password. The username and password will be used to log in
 <br />
 
 <p>
-<img src="https://i.imgur.com/a16emO7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Copy the public IP address. The IP address will be used to connect to a PC in Microsoft remote desktop.
 </p>
+
+<p>
+<img src="https://i.imgur.com/a16emO7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
+
+<p>
+Paste the IP address from Microsoft Azure for the PC name.
+</p>
 
 <p>
 <img src="https://i.imgur.com/qQgDCr1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Paste the IP address from Microsoft Azure for the PC name.
-</p>
 <br />
+
+<p>
+Enter the username and password that was created in Azure.
+</p>
 
 <p>
 <img src="https://i.imgur.com/Bl58TL8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Enter the username and password that was created in Azure.
-</p>
+
 <br />
 
-<p>
-<img src="https://i.imgur.com/uZFyyR8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 <p>
 Enable and install Information Internet Services (IIS)
   - Open run
@@ -148,6 +149,10 @@ Enable and install Information Internet Services (IIS)
   - Click "World Wide Web Services"
   - Click "Application Development Features"
   -Select "CGI"
+</p>
+
+<p>
+<img src="https://i.imgur.com/uZFyyR8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
